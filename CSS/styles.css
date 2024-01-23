@@ -1,0 +1,23 @@
+#custom-bg {
+    background-image: : url('https://robdunnlab.com/wp-content/uploads/microbes-sem.jpg');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    backgorund-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#text {
+    font-weight: bold;
+    font-size: large;
+}
+
+.col-md-12.jumbotron.tex-center {
+    background-image: url('https://robdunnlab.com/wp-content/uploads/microbes-sem.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color:white;
+
+}
